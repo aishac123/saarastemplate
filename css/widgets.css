@@ -46,7 +46,7 @@
   box-sizing: border-box;
   transform: translate(-50%, 0);
   -ms-transform: translate(-50%, 0);
-  padding: 15px 25x;
+  padding: 150px 250x;
   padding: max(min(2vw, 15px), 10px) max(min(3vw, 25px), 15px);
   font-size: 25px;
   font-size: max(min(6vw, 25px), 16px);
